@@ -1,9 +1,9 @@
 body { 
-    background-color: red;
+    background-color: #c5cfc6;
 }
 
 .cabecalho{
-    background-color: black;
+    background-color: #474843;
     color: whitesmoke;
     padding-top: 30px;
     padding-bottom: 30px;
@@ -24,7 +24,11 @@ p {
 }
 
 .imgcentro {
-
+    width: 500px;
+    display: block;
+    margin: auto;
+    border: 5px;
+    padding: 30px;
 }
 
 nav{
